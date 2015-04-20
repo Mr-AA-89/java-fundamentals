@@ -28,5 +28,9 @@ Fundamental programming concepts implemented in Java.
 <td>PiSaver</td>
 <td>Screensaver about Pi.</td>
 </tr>
+<tr>
+<td>Postfix Evaluator</td>
+<td>Evaluate postfix expressions.</td>
+</tr>
 </tbody>
 </table>
