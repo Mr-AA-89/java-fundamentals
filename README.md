@@ -19,7 +19,6 @@ Fundamental programming concepts implemented in Java.
 <td>Mastermind</td>
 <td>Graphical game of mastermind against the computer.</td>
 </tr>
-</tr>
 <tr>
 <td>Morra Game</td>
 <td>Graphical game of Morra against the computer.</td>
