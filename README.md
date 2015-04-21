@@ -33,7 +33,7 @@ Fundamental programming concepts implemented in Java.
 <td>Evaluate postfix expressions.</td>
 </tr>
 <tr>
-<td>Tower Of Hanoi</td>
+<td>Tower of Hanoi</td>
 <td>Shows moves to take to solve a Tower of Hanoi puzzle.</td>
 </tr>
 </tbody>
