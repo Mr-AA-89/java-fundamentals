@@ -32,5 +32,9 @@ Fundamental programming concepts implemented in Java.
 <td>Postfix Evaluator</td>
 <td>Evaluate postfix expressions.</td>
 </tr>
+<tr>
+<td>Tower Of Hanoi</td>
+<td>Shows moves to take to solve a Tower of Hanoi puzzle.</td>
+</tr>
 </tbody>
 </table>
