@@ -12,6 +12,10 @@ Fundamental programming concepts implemented in Java.
 </thead>
 <tbody>
 <tr>
+<td>Game of Life</td>
+<td>Graphical Game of Life simulator.</td>
+</tr>
+<tr>
 <td>Currency Converter</td>
 <td>Graphical currency converter between U.S. Dollars, Euro, Polish Złoty, Argentine Peso, and Bitcoin.</td>
 </tr>
